@@ -1,2 +1,17 @@
-# Student-Manager
-A simple WinForms application built with C# to practice List&lt;T> data structure operations such as Add, Remove, and Display Students.
+# Student Manager
+
+A simple C# WinForms project for practicing List<T>.
+
+## Features
+- Add Students
+- Edit Students
+- Delete Students
+- Display Students
+
+## Technologies
+- C#
+- WinForms
+- List<T>
+
+## Screenshots
+![alt text for the image](Screenshots/Main.png)
